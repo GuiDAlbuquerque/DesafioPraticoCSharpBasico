@@ -1,0 +1,48 @@
+# Visual Studio
+.vs/
+*.sln.docstates
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+bin/
+obj/
+
+# NuGet packages
+*.nupkg
+**/packages/*
+**/packages/**/*.nupkg
+
+# Visual Studio Code
+.vscode/
+
+# Resharper
+_ReSharper*/
+*.DotSettings
+
+# Rider
+.idea/
+.idea/*
+
+# Logs
+*.log
+
+# Outros arquivos e pastas que podem ser gerados
+*.user
+*.suo
+*.userprefs
+*.cache
+*.dbmdl
+*.dbproj.schemaview
+*.jfm
+*.pdb
+*.mdb
+
+# Configurações do sistema
+*.sln.ide
+*.sln.suo
+
+# Credenciais e arquivos sensíveis
+*.env
